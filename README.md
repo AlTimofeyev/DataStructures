@@ -1,9 +1,10 @@
 # Data Structures
-A collection of different data structures
+A collection of different data structures. 
+To use the desired data structure, simply include the desired file(s) in your project folder.
 
 <br />
 
-### What is included with each data structure
+### Here is what is included with each data structure
 - The Data structure code.
 - Documentation of the data structure code. 
 
