@@ -10,5 +10,6 @@ To use the desired data structure, simply include the desired data structure fil
 ## List of Data Structres
 - Singly Linked List
 - Doubly Linked List
+- Stack
 
 <br />
