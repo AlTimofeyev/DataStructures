@@ -28,7 +28,7 @@ struct Node
 {
     // ------------- FIELDS -------------
     T data;             /**< The data. */
-    Node<T>* previous;  /**< Pointer to the previous node in the list. */
+    Node<T>* previous;  /**< Pointer to the previous node in the stack. */
     
     // ---------- CONSTRUCTORS ----------
     /** Copy Constructor. */
