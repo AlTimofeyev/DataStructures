@@ -11,5 +11,6 @@ To use the desired data structure, simply include the desired data structure fil
 - Singly Linked List
 - Doubly Linked List
 - Stack
+- Binary Tree
 
 <br />
